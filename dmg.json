@@ -1,0 +1,8 @@
+{
+  "title": "Intercom",
+  "icon": "assets/images/circle.icns",
+  "contents": [
+    { "x": 448, "y": 100, "type": "link", "path": "/Applications" },
+    { "x": 192, "y": 100, "type": "file", "path": "./release/Intercom-darwin-x64/Intercom.app" }
+  ]
+}
